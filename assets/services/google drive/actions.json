@@ -1,0 +1,11 @@
+{
+    "delete_file": [ 
+        "delete", "suppress", "remove"
+    ],
+    "upload_file": [
+        "upload", "send", "save", "register"
+    ],
+    "share_file": [
+        "share", "contribute", "add a contributor", ""
+    ]
+}

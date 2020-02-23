@@ -1,0 +1,8 @@
+{
+    "read_channel": [
+        "read", "tell me", "what I recieved"
+    ],
+    "send_message": [
+        "write", "new message", "say", "send me", "send it to"
+    ]
+}

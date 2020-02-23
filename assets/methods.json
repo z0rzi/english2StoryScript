@@ -1,0 +1,17 @@
+{
+    "when": [
+        "when I", "listen to", "wait for", "receive the"
+    ],
+    "expression": [
+        "let", "equals to"
+    ],
+    "for": [
+        "for", "as long as"
+    ],
+    "if": [
+        "if", "wether this or that", "if it", "if there's", "if I"
+    ],
+    "else": [
+        "else", "otherwise", "In the other case"
+    ]
+}

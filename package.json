@@ -1,0 +1,20 @@
+{
+  "name": "storyscript-nlp-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bayes": "^1.0.0",
+    "natural": "^0.6.3",
+    "node-nlp": "^4.1.4",
+    "python-shell": "^1.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

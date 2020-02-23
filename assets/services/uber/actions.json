@@ -1,0 +1,14 @@
+{
+    "cancel_drive": [
+        "cancel the"
+    ],
+    "change_time": [
+        "change the time", "reschedule"
+    ],
+    "get_ride": [
+        "call", "get a ride"
+    ],
+    "get_delay": [
+        "how long", "delay", "how much time"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "starts_raining": [
+        "rain", "raining", "pouring", "water", "storm", "bad"
+    ],
+    "sun_rises": [
+        "sun", "sunrise", "rise", "rises", "day starts"
+    ],
+    "sun_sets": [
+        "sun", "sets", "sunset", "sun goes down", "night begins"
+    ]
+}

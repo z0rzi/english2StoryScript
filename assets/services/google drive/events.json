@@ -1,0 +1,11 @@
+{
+    "file_deleted": [
+        "deleted"
+    ],
+    "file_shared": [
+        "shared", "collaborator"
+    ],
+    "file_created": [
+        "created", "new", "save"
+    ]
+}

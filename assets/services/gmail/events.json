@@ -1,0 +1,8 @@
+{
+    "listen_inbox": [
+        "I recieve", "inbox", "new message"
+    ],
+    "listen_outgoing": [
+        "I send", "send", "gets sent"
+    ]
+}

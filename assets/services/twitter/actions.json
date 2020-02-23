@@ -1,0 +1,11 @@
+{
+    "post_tweet": [
+        "post the", "send a", "say"
+    ],
+    "read_tweet": [
+        "read the", "tell me"
+    ],
+    "count_tweets": [
+        "how many", "count"
+    ]
+}

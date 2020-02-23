@@ -1,0 +1,8 @@
+{
+    "event_created": [
+        "new event", "is created", "is planned"
+    ],
+    "event_deleted": [
+        "gets cancelled", "gets deleted"
+    ]
+}

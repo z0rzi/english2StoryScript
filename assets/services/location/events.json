@@ -1,0 +1,8 @@
+{
+    "get_home": [
+        "arrive home", "get home"
+    ],
+    "leave_home": [
+        "leave home", "leave", "go out"
+    ]
+}

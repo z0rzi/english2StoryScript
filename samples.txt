@@ -1,0 +1,10 @@
+
+When an event gets cancelled from my calendar, call an uber drive
+
+When I recieve a new email, save the attachements to my drive
+
+Send me a message when the sun rises
+
+Tell me how hot it is outside
+
+send a message to mom when I get home

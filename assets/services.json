@@ -1,0 +1,29 @@
+{
+    "gmail": [
+        "email", "send", "attachement", "recieve"
+    ],
+    "twitter": [
+        "tweet", "post", "send", "receive"
+    ],
+    "slack": [
+        "channel", "send", "message"
+    ],
+    "http": [
+        "host", "server", "web"
+    ],
+    "uber": [
+        "driver", "car"
+    ],
+    "google calendar": [
+        "calendar", "schedule", "appointment"
+    ],
+    "google drive": [
+        "drive", "file"
+    ],
+    "weather": [
+        "time", "rain", "sun", "outside"
+    ],
+    "location": [
+        "place", "where I am", "home", "I go", "I leave"
+    ]
+}

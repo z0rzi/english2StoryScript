@@ -1,0 +1,11 @@
+{
+    "create_event": [
+        "create a new", "make a"
+    ],
+    "delete_event": [
+        "delete", "cancel"
+    ],
+    "move_event": [
+        "move", "postpone", "reschedule"
+    ]
+}
