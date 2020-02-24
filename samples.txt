@@ -8,3 +8,7 @@ Send me a message when the sun rises
 Tell me how hot it is outside
 
 send a message to mom when I get home
+
+Call an Uber driver when I get home
+
+Give me the outside temperature when the sun rises
