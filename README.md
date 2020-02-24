@@ -23,5 +23,5 @@ py$ averaged_perceptron_tagger
 ```
 
 ## Still to do
-[] Add argument detection
-[] Better detection (add training data in the JSON files)
+- [ ] Add argument detection
+- [ ] Better detection (add training data in the JSON files)
